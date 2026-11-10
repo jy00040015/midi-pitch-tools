@@ -1,4 +1,4 @@
-# browser-audio-to-midi-tools
+# midi-pitch-tools
 
 Small, dependency-light tools that turn audio into MIDI note data, built alongside
 [MakeItMidi](https://makeitmidi.com/) — a browser-based MP3/WAV/voice-to-MIDI converter
