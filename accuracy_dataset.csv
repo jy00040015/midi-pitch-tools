@@ -1,0 +1,10 @@
+﻿audio_type,wrong_notes,wrong_pitch_range_midi,pitch_class_errors,missing_notes
+single_piano,0,,0,0
+chord,11,33-43,8,3
+vocal_hum,0,,0,0
+with_glissando,6,61-66,6,0
+with_vibrato,0,,0,0
+drum_kit,12,26-50,12,0
+free_rubato,0,,0,0
+classical_melody,5,48-55,0,4
+distorted_guitar,10,25-39,8,2
